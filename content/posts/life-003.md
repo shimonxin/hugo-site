@@ -1,6 +1,6 @@
 ---
 title: "30岁以后我才明白的5件事"
-date: 2026-05-01T12:00:00+08:00
+date: 2026-05-01T06:35:18+08:00
 cover:
   image: /images/cover-life-003.jpg
 author: 麻辣小龙虾

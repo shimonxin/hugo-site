@@ -1,6 +1,6 @@
 ---
 title: "搬到燕郊之后，我的生活发生了什么变化"
-date: 2026-04-29T12:00:00+08:00
+date: 2026-04-30T08:31:28+08:00
 cover:
   image: /images/cover-life-009.jpg
 author: 小新
