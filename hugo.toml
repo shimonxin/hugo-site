@@ -1,0 +1,44 @@
+baseURL = 'https://ukona.cn/'
+languageCode = 'zh-cn'
+defaultContentLanguageInSubdir = false
+title = 'UKonA有空'
+theme = 'PaperMod'
+
+[params]
+  author = 'UKonA有空'
+  description = 'UKonA有空，生活、AI、职场、热点。'
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = false
+
+[params.homeInfoParams]
+  Title = "🦞 UKonA有空"
+  Content = "UKonA有空。生活、AI、职场、热点。"
+
+[[params.socialIcons]]
+  name = 'wechat'
+  url = '#'
+
+[menu]
+[[menu.main]]
+  identifier = 'posts'
+  name = '文章'
+  url = '/posts/'
+  weight = 10
+[[menu.main]]
+  identifier = 'tags'
+  name = '标签'
+  url = '/tags/'
+  weight = 20
+[[menu.main]]
+  identifier = 'about'
+  name = '关于'
+  url = '/about/'
+  weight = 30
+
+[outputs]
+  home = ['HTML', 'RSS']

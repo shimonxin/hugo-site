@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>人工智能 on UKonA有空</title><link>https://ukona.cn/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link><description>Recent content in 人工智能 on UKonA有空</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Fri, 24 Apr 2026 06:30:11 +0800</lastBuildDate><atom:link href="https://ukona.cn/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml"/><item><title>AI能帮你做什么？这10个场景比你想的更实用</title><link>https://ukona.cn/posts/ai-life-practical-scenarios/</link><pubDate>Fri, 24 Apr 2026 06:30:11 +0800</pubDate><guid>https://ukona.cn/posts/ai-life-practical-scenarios/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;字数：约2168字 | 阅读时间：7分钟
+&lt;strong&gt;&amp;ldquo;AI不是来替代你的，是来解放你的&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;每天睁开眼睛，手机就在推送：&amp;ldquo;AI将取代你的工作&amp;rdquo;、&amp;ldquo;年轻人要学会和AI共处&amp;rdquo;&amp;hellip;&amp;hellip;听得多了，反而不知道AI到底是什么了。&lt;/p&gt;
+&lt;p&gt;前几天帮亲戚修电脑，他问我：&amp;ldquo;现在是不是所有工作都要学AI？我不学是不是就要被淘汰了？&amp;ldquo;这句话问到了很多人的痛点。&lt;/p&gt;
+&lt;p&gt;其实AI不是洪水猛兽，它就是个工具，就像电冰箱、洗衣机一样，用好了能解放双手，用不好就是鸡肋。&lt;/p&gt;
+&lt;p&gt;今天就以一个普通人的视角，分享AI在我的日常中真正帮到我的10个场景，都是实实在在能提升生活质量的东西。&lt;/p&gt;
+&lt;h2 id="1-写邮件写报告--5分钟搞定一封正式邮件"&gt;1. 写邮件/写报告 —— 5分钟搞定一封正式邮件&lt;/h2&gt;
+&lt;p&gt;以前写邮件是最头疼的事，尤其是写周报、月报这类格式化内容。每次都要翻前几期的模板，调整措辞，有时候写个标题都要想半天。&lt;/p&gt;
+&lt;p&gt;现在我的流程是这样的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;先用AI生成初稿（告诉它：&amp;ldquo;帮我写一份本周工作总结，包含项目进展、遇到的问题和下周计划&amp;rdquo;）&lt;/li&gt;
+&lt;li&gt;然后我根据自己的实际情况修改补充&lt;/li&gt;
+&lt;li&gt;最后再用AI润色一下，确保语气得体&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;举个例子，上周要写一份项目进度报告，我给了AI这些信息：&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;项目：电商平台改版
+本周进展：完成了首页UI设计、购物车功能开发
+遇到的问题：支付接口对接延迟
+下周计划：完成用户中心开发、开始测试
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;5分钟后，AI就给我生成了一份完整的报告，连&amp;quot;特此汇报，请领导审阅&amp;quot;这种官方用语都有了。我把真实数据填进去，直接就能发。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;省下来的时间：&lt;/strong&gt; 每周至少2小时，以前写报告要半小时，现在10分钟搞定。&lt;/p&gt;
+&lt;h2 id="2-整理会议纪要--再也不用反复听录音"&gt;2. 整理会议纪要 —— 再也不用反复听录音&lt;/h2&gt;
+&lt;p&gt;以前开会总要录音，怕漏掉重点。但会议结束后听录音整理纪要，真是折磨人。一个小时的会议，整理成文字要花两三个小时。&lt;/p&gt;
+&lt;p&gt;现在我直接用AI会议记录工具：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;开会时把手机放桌上录音&lt;/li&gt;
+&lt;li&gt;会议结束后把录音文件转成文字&lt;/li&gt;
+&lt;li&gt;让AI整理成结构化的会议纪要&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AI会自动识别：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;谁说了什么&lt;/li&gt;
+&lt;li&gt;决定了什么事项&lt;/li&gt;
+&lt;li&gt;谁负责什么工作&lt;/li&gt;
+&lt;li&gt;什么时候完成&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;最神奇的是，它能区分哪些是行动项，哪些是讨论内容。以前我整理纪要总漏掉&amp;quot;会后跟进&amp;quot;的部分，现在AI会自动标注：&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;【行动项】
+- 张三：完成需求文档（4月25日前）
+- 李四：联系技术部确认接口（4月26日前）
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;省下来的时间：&lt;/strong&gt; 每次会议节省2小时，一周5个会议就是10小时。&lt;/p&gt;
+&lt;h2 id="3-旅行规划--ai帮你做攻略比攻略网站更靠谱"&gt;3. 旅行规划 —— AI帮你做攻略比攻略网站更靠谱&lt;/h2&gt;
+&lt;p&gt;每次想出去玩，攻略网站上的信息都太商业化。找酒店、查路线、安排行程，找信息都要花好几天。&lt;/p&gt;
+&lt;p&gt;我用AI规划旅行，效果出奇地好。比如上个月想去杭州玩，我告诉AI：&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;预算：2000元（3天2夜）
+偏好：文化景点、美食、拍照打卡
+要求：避开热门景区人挤人，推荐小众但值得去的地方
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;AI给我的方案：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第一天：西湖周边（断桥残雪、苏堤春晓、雷峰塔）+ 附近小餐馆&lt;/li&gt;
+&lt;li&gt;第二天：灵隐寺、飞来峰 + 龙井村品茶&lt;/li&gt;
+&lt;li&gt;第三天：河坊街、南宋御街 + 西湖夜景&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;还帮我对比了各个景点的最佳游览时间、交通方式、门票价格，甚至推荐了一些攻略上没有的小众拍照点。关键是，它避开了那些过度商业化的景点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;省下来的时间：&lt;/strong&gt; 以前规划一次旅行要3-5天，现在半小时搞定。&lt;/p&gt;
+&lt;h2 id="4-学英语--24小时外教还不要钱"&gt;4. 学英语 —— 24小时外教，还不要钱&lt;/h2&gt;
+&lt;p&gt;学英语最头疼的是没环境、没人练。找个外教一节课要好几百，而且时间对不上。&lt;/p&gt;</description></item></channel></rss>
